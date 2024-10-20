@@ -1,12 +1,9 @@
 # 🎮 **Civiltà Contadina (2D Game)**
+
+---
+https://scratch.mit.edu/projects/602177591
+
 ![image](https://github.com/user-attachments/assets/c584f8ae-3196-4bcf-bdf4-21b01cbe89bc)
-
-
-### **Project Duration:**  
-*October 2021 - November 2021*
-
-### **Associated With:**  
-Faculty of Information and Communication Technology (ICT), Mahidol University
 
 ---
 
